@@ -20,3 +20,4 @@ dependencies:
   - tornado<6
   - fastparquet
   - python-snappy
+  - numpy
