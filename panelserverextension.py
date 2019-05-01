@@ -9,7 +9,7 @@ def load_jupyter_server_extension(nbapp):
             "serve",
             "app.ipynb",
             "--allow-websocket-origin=*",
-            "--websocket-max-message-size=100",
+            "--websocket-max-message-size=10000",
         ]
     )
 
