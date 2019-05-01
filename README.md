@@ -16,6 +16,9 @@ The dashboard includes:
 
 As the user zooms in/out of the map, the Altair chart updates to show only data currently within the map viewport.
 
+### Note
+
+If you receive a "Request Timeout" or "Connection Refused" error when loading the app, try waiting a few minutes and re-clicking on the app launch button above. 
 
 
 ### Repository Files
